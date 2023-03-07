@@ -1,0 +1,83 @@
+Message  1:
+From lladmin@llsuva.test  Tue Mar  7 07:51:13 2023
+Return-Path: <lladmin@llsuva.test>
+X-Original-To: admin@lli-inf-lin03.llsuva.test
+Delivered-To: admin@lli-inf-lin03.llsuva.test
+From: lladmin@llsuva.test
+To: hd6@llsuva.test
+Cc: lladmin@llsuva.test
+Date: 7 Mar 2023 07:51:13 +0100
+Subject: Server mit Thick Disk
+Content-Type: text/plain; charset=utf-8
+Status: RO
+
+Hallo liebe Serververantwortliche
+
+Dieses Email wird automatisch generiert, falls ein Virtueller Server existiert mit mindestens einer Thick Harddisk.
+Dies kann unter Umständen zu Kapazitätsproblemen führen.
+
+Wir bitten Dich die Disk ins Thin-Format zu konvertieren. Siehe dazu auch: https://kb.vmware.com/s/article/2014832
+
+TSO: hd6 
+           Server:                lli-hd6-apl05
+           Harddisk:              Hard disk 1
+           Disk Format:           Thick
+           Filename:              [LLI-NGAD018-SNS01] lli-hd6-apl05/lli-hd6-apl05.vmdk
+ 
+           Server:                lli-hd6-apl04
+           Harddisk:              Hard disk 3
+           Disk Format:           Thick
+           Filename:              [LLI-NGAD018-SNS02] lli-hd6-apl04/lli-hd6-apl04_2-000002.vmdk
+ 
+           Server:                lli-hd6-apl05
+           Harddisk:              Hard disk 2
+           Disk Format:           Thick
+           Filename:              [LLI-NGAD018-SNS01] lli-hd6-apl05/lli-hd6-apl05_1.vmdk
+ 
+           Server:                lli-hd6-apl03
+           Harddisk:              Hard disk 1
+           Disk Format:           Thick
+           Filename:              [LLI-NGAD018-SNS01] lli-hd6-apl03/lli-hd6-apl03-000001.vmdk
+ 
+           Server:                lli-hd6-apl05
+           Harddisk:              Hard disk 3
+           Disk Format:           Thick
+           Filename:              [LLI-NGAD018-SNS01] lli-hd6-apl05/lli-hd6-apl05_2.vmdk
+ 
+           Server:                lli-hd6-apl02
+           Harddisk:              Hard disk 2
+           Disk Format:           Thick
+           Filename:              [LLI-NGAD016-SNS02] lli-hd6-apl02/lli-hd6-apl02_1.vmdk
+ 
+           Server:                lli-hd6-apl02
+           Harddisk:              Hard disk 1
+           Disk Format:           Thick
+           Filename:              [LLI-NGAD016-SNS02] lli-hd6-apl02/lli-hd6-apl02.vmdk
+ 
+           Server:                lli-hd6-apl02
+           Harddisk:              Hard disk 3
+           Disk Format:           Thick
+           Filename:              [LLI-NGAD016-SNS02] lli-hd6-apl02/lli-hd6-apl02_2.vmdk
+ 
+           Server:                lli-hd6-apl04
+           Harddisk:              Hard disk 2
+           Disk Format:           Thick
+           Filename:              [LLI-NGAD018-SNS02] lli-hd6-apl04/lli-hd6-apl04_1-000002.vmdk
+ 
+           Server:                lli-hd6-apl04
+           Harddisk:              Hard disk 1
+           Disk Format:           Thick
+           Filename:              [LLI-NGAD018-SNS02] lli-hd6-apl04/lli-hd6-apl04-000002.vmdk
+
+
+Links auf vCenter: https://lli-inf-vct01.llsuva.test/ui
+
+Solltest Du nicht (mehr) der TSO dieses Systems sein, bitten wir Dich dies zu melden und korrigieren zu lassen.
+
+Besten Dank für die Zusammenarbeit
+
+Freundliche Gruesse
+LLSUVA Admin
+
+
+Held 1 message in /var/mail/admin
