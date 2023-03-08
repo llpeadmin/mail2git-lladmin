@@ -1,0 +1,13 @@
+Message  1:
+From lli-inf-vct01@llsuva.test  Wed Mar  8 09:56:21 2023
+Return-Path: <lli-inf-vct01@llsuva.test>
+X-Original-To: admin@lli-inf-lin03.llsuva.test
+Delivered-To: admin@lli-inf-lin03.llsuva.test
+Date: Wed, 8 Mar 2023 08:56:19 GMT
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: [Warning] Alarm alarm.VmDiskConsolidationNeededAlarm on VM h50l87t.llsuva.test_migrated
+Content-type: text/html; charset="utf-8"
+Status: RO
+
+This email is to notify you that an alarm has been triggered in your vCenter:<br><b>[Warning] Alarm alarm.VmDiskConsolidationNeededAlarm on VM h50l87t.llsuva.test_migrated<br></b>because <b>Virtual machine h50l87t.llsuva.test_migrated disks consolidation is needed on lli-inf-esx03.llsuva.test in cluster llsuva01 in llsuva..</b><br><table><tr><td>Alarm name</td><td>alarm.VmDiskConsolidationNeededAlarm</td></tr><tr><td>Description</td><td>alarm.VmDiskConsolidationNeededAlarm</td></tr><tr><td>Target</td><td>VM h50l87t.llsuva.test_migrated</td></tr><tr><td>Status</td><td>Warning (previous status: Unset)</td></tr><tr><td>Triggered time</td><td>03/08/2023 08:56:19 AM</td></tr></table>Held 1 message in /var/mail/admin
