@@ -1,0 +1,17 @@
+Message  1:
+From admin@lli-inf-lin03.llsuva.test  Thu May 25 15:20:10 2023
+Return-Path: <admin@lli-inf-lin03.llsuva.test>
+X-Original-To: admin@lli-inf-lin03.llsuva.test
+Delivered-To: admin@lli-inf-lin03.llsuva.test
+Date: Thu, 25 May 2023 15:20:09 +0200
+To: lladmin@llsuva.test
+Subject: Mail from llinfcheck - checkdns Error
+User-Agent: Heirloom mailx 12.5 7/5/10
+Content-Type: text/plain; charset=us-ascii
+From: admin@lli-inf-lin03.llsuva.test
+Status: RO
+
+2023-05-25T15:20:09(CEST) - llinfcheck (PID 2177352) - checkdns - Server ok (1 von 2): 10.67.105.21
+2023-05-25T15:20:09(CEST) - llinfcheck (PID 2177352) - checkdns - Server mit Error (1 von 2): 10.67.105.22
+
+Held 2 messages in /var/mail/admin
