@@ -1,0 +1,13 @@
+Message  1:
+From lli-inf-vct01@llsuva.test  Wed Jun  7 14:26:26 2023
+Return-Path: <lli-inf-vct01@llsuva.test>
+X-Original-To: admin@lli-inf-lin03.llsuva.test
+Delivered-To: admin@lli-inf-lin03.llsuva.test
+Date: Wed, 7 Jun 2023 12:26:26 GMT
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: [Warning] Alarm alarm.VmDiskConsolidationNeededAlarm on VM i71l05t_replica
+Content-type: text/html; charset="utf-8"
+Status: RO
+
+This email is to notify you that an alarm has been triggered in your vCenter:<br><b>[Warning] Alarm alarm.VmDiskConsolidationNeededAlarm on VM i71l05t_replica<br></b>because <b>Virtual machine i71l05t_replica disks consolidation is needed on lli-inf-esx01.llsuva.test in cluster llsuva01 in llsuva..</b><br><table><tr><td>Alarm name</td><td>alarm.VmDiskConsolidationNeededAlarm</td></tr><tr><td>Description</td><td>alarm.VmDiskConsolidationNeededAlarm</td></tr><tr><td>Target</td><td>VM i71l05t_replica</td></tr><tr><td>Status</td><td>Warning (previous status: Unset)</td></tr><tr><td>Triggered time</td><td>06/07/2023 12:26:26 PM</td></tr></table>Held 1 message in /var/mail/admin
