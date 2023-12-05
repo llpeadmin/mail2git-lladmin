@@ -1,0 +1,17 @@
+Message  1:
+From admin@lli-inf-lin03.llsuva.test  Tue Dec  5 12:15:02 2023
+Return-Path: <admin@lli-inf-lin03.llsuva.test>
+X-Original-To: admin@lli-inf-lin03.llsuva.test
+Delivered-To: admin@lli-inf-lin03.llsuva.test
+Date: Tue, 05 Dec 2023 12:15:02 +0100
+To: lladmin@llsuva.test
+Subject: Mail from gitsave
+User-Agent: Heirloom mailx 12.5 7/5/10
+Content-Type: text/plain; charset=us-ascii
+From: admin@lli-inf-lin03.llsuva.test
+Status: RO
+
+*** 20231205T1215 - cd /app/lib/backup/git_lli-inf/20231205T1215 && git clone gitea@lli-inf-git.llsuva.test:lli-inf/public.git ***
+Cloning into 'public'... Gitea: Internal Server Connection Error fatal: Could not read from remote repository. Please make sure you have the correct access rights and the repository exists.
+
+Held 2 messages in /var/mail/admin
