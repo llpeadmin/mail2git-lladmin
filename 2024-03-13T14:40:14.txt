@@ -1,0 +1,13 @@
+Message  1:
+From lli-inf-vct01@llsuva.test  Wed Mar 13 14:33:13 2024
+Return-Path: <lli-inf-vct01@llsuva.test>
+X-Original-To: admin@lli-inf-lin03.llsuva.test
+Delivered-To: admin@lli-inf-lin03.llsuva.test
+Date: Wed, 13 Mar 2024 13:33:13 GMT
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: [Critical] Alarm alarm.HostConnectionStateAlarm on Host lli-inf-esx03.llsuva.test
+Content-type: text/html; charset="utf-8"
+Status: RO
+
+This email is to notify you that an alarm has been triggered in your vCenter:<br><b>[Critical] Alarm alarm.HostConnectionStateAlarm on Host lli-inf-esx03.llsuva.test<br></b>because <b>Host State is equal to Not responding AND State is equal to Unknown.</b><br><table><tr><td>Alarm name</td><td>alarm.HostConnectionStateAlarm</td></tr><tr><td>Description</td><td>alarm.HostConnectionStateAlarm</td></tr><tr><td>Target</td><td>Host lli-inf-esx03.llsuva.test</td></tr><tr><td>Status</td><td>Critical (previous status: Normal)</td></tr><tr><td>Triggered time</td><td>03/13/2024 01:33:13 PM</td></tr></table>Held 2 messages in /var/mail/admin
