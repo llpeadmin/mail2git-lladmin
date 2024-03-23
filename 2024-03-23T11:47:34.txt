@@ -1,0 +1,13 @@
+Message  1:
+From lli-inf-vct01@llsuva.test  Sat Mar 23 11:39:53 2024
+Return-Path: <lli-inf-vct01@llsuva.test>
+X-Original-To: admin@lli-inf-lin03.llsuva.test
+Delivered-To: admin@lli-inf-lin03.llsuva.test
+Date: Sat, 23 Mar 2024 10:39:52 GMT
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: [Critical] Alarm alarm.HAcannotFindMaster on Resource-pool llsuva01
+Content-type: text/html; charset="utf-8"
+Status: RO
+
+This email is to notify you that an alarm has been triggered in your vCenter:<br><b>[Critical] Alarm alarm.HAcannotFindMaster on Resource-pool llsuva01<br></b>because <b>vCenter Server is unable to find a master vSphere HA agent in cluster llsuva01 in llsuva.</b><br><table><tr><td>Alarm name</td><td>alarm.HAcannotFindMaster</td></tr><tr><td>Description</td><td>alarm.HAcannotFindMaster</td></tr><tr><td>Target</td><td>Resource-pool llsuva01</td></tr><tr><td>Status</td><td>Critical (previous status: Normal)</td></tr><tr><td>Triggered time</td><td>03/23/2024 10:39:52 AM</td></tr></table>Held 8 messages in /var/mail/admin
