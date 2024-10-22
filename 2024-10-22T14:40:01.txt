@@ -1,0 +1,13 @@
+Message  1:
+From lli-inf-vct01@llsuva.test  Tue Oct 22 14:30:33 2024
+Return-Path: <lli-inf-vct01@llsuva.test>
+X-Original-To: admin@lli-inf-lin03.llsuva.test
+Delivered-To: admin@lli-inf-lin03.llsuva.test
+Date: Tue, 22 Oct 2024 12:30:33 GMT
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: [Normal] Alarm alarm.HAfailoverInProgress on Resource-pool llsuva01
+Content-type: text/html; charset="utf-8"
+Status: RO
+
+This email is to notify you that an alarm has been triggered in your vCenter:<br><b>[Normal] Alarm alarm.HAfailoverInProgress on Resource-pool llsuva01<br></b>because <b>vSphere HA completed a virtual machine failover action in cluster llsuva01 in datacenter llsuva.</b><br><table><tr><td>Alarm name</td><td>alarm.HAfailoverInProgress</td></tr><tr><td>Description</td><td>alarm.HAfailoverInProgress</td></tr><tr><td>Target</td><td>Resource-pool llsuva01</td></tr><tr><td>Status</td><td>Normal (previous status: Warning)</td></tr><tr><td>Triggered time</td><td>10/22/2024 12:30:32 PM</td></tr></table>Held 1 message in /var/mail/admin
