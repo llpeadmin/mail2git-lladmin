@@ -1,0 +1,15 @@
+Message  1:
+From lladmin@llsuva.test  Fri Feb  7 15:24:45 2025
+Return-Path: <lladmin@llsuva.test>
+X-Original-To: admin@lli-inf-lin03.llsuva.test
+Delivered-To: admin@lli-inf-lin03.llsuva.test
+Date: Fri, 7 Feb 2025 16:08:29 +0200
+From: lladmin@llsuva.test
+To: lladmin@llsuva.test
+Subject: Server Alert, Host Name=lli-inf-esx01-r, Board SN=022HLVCNGC010790
+Status: RO
+
+
+32 Location:server room; Time:2025-02-07 16:08:28; Sensor:PS1 Status; Severity:Deassertion Critical; Code:0x0300000E; Description:The AC/DC input of PSU 1 is lost or out-of-range (SN:0QWXHVGC066580, PN:02310QWX).
+
+Held 9 messages in /var/mail/admin
