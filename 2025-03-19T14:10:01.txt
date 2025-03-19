@@ -1,0 +1,17 @@
+Message  1:
+From admin@lli-inf-lin03.llsuva.test  Wed Mar 19 14:02:05 2025
+Return-Path: <admin@lli-inf-lin03.llsuva.test>
+X-Original-To: admin@lli-inf-lin03.llsuva.test
+Delivered-To: admin@lli-inf-lin03.llsuva.test
+Date: Wed, 19 Mar 2025 14:02:05 +0100
+To: lladmin@llsuva.test
+Subject: Mail from llinfcheck - checkping Error
+User-Agent: Heirloom mailx 12.5 7/5/10
+Content-Type: text/plain; charset=us-ascii
+From: admin@lli-inf-lin03.llsuva.test
+Status: RO
+
+2025-03-19T14:02:05(CET) - llinfcheck (PID 1816797) - checkping - Server ok (26 von 27): lli-inf-win01,lli-inf-sns01,lli-inf-sns02,lli-inf-snd10,lli-inf-snd20,lli-apollo-lin01,lli-brf-lin01,lli-ch6-lin01,lli-hd6-lin01,lli-nl0-lin01,lli-inf-lin01,lli-inf-lin02,lli-inf-lin03,lli-inf-lin04,lli-inf-lin05,lli-wra-lin01,lli-m3j-lin01,lli-ckb-lin01,lli-cn5-lin01,lli-wl4-lin01,lli-bje-lin01,lli-inf-esx02,lli-inf-esx03,lli-inf-esx04,lli-inf-esx05,lli-inf-esx06
+2025-03-19T14:02:05(CET) - llinfcheck (PID 1816797) - checkping - Server mit Error (1 von 27): lli-inf-esx01
+
+Held 4 messages in /var/mail/admin
