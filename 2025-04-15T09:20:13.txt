@@ -1,0 +1,13 @@
+Message  1:
+From lli-inf-vct01@llsuva.test  Tue Apr 15 09:11:45 2025
+Return-Path: <lli-inf-vct01@llsuva.test>
+X-Original-To: admin@lli-inf-lin03.llsuva.test
+Delivered-To: admin@lli-inf-lin03.llsuva.test
+Date: Tue, 15 Apr 2025 09:11:44 +0200
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: Alarm alarm.HostConnectivityAlarm on Host lli-inf-esx02.llsuva.test
+Content-type: text/html; charset="utf-8"
+Status: RO
+
+This email is to notify you that an alarm has been triggered in your vCenter:<br><b>Alarm alarm.HostConnectivityAlarm on Host lli-inf-esx02.llsuva.test<br></b>because <b>Host lli-inf-esx02.llsuva.test in llsuva is not responding.</b><br><table><tr><td>Alarm name</td><td>alarm.HostConnectivityAlarm</td></tr><tr><td>Description</td><td>alarm.HostConnectivityAlarm</td></tr><tr><td>Target</td><td>Host lli-inf-esx02.llsuva.test</td></tr><tr><td>Triggered time</td><td>04/15/2025 07:11:43 AM</td></tr></table>Held 4 messages in /var/mail/admin
