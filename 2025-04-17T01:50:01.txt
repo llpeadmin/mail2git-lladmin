@@ -1,0 +1,13 @@
+Message  1:
+From lli-inf-vct01@llsuva.test  Thu Apr 17 01:47:14 2025
+Return-Path: <lli-inf-vct01@llsuva.test>
+X-Original-To: admin@lli-inf-lin03.llsuva.test
+Delivered-To: admin@lli-inf-lin03.llsuva.test
+Date: Thu, 17 Apr 2025 01:47:13 +0200
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: [Critical] Alarm alarm.NetworkRedundancyLostAlarm on Host lli-inf-esx01.llsuva.test
+Content-type: text/html; charset="utf-8"
+Status: RO
+
+This email is to notify you that an alarm has been triggered in your vCenter:<br><b>[Critical] Alarm alarm.NetworkRedundancyLostAlarm on Host lli-inf-esx01.llsuva.test<br></b>because <b>Lost uplink redundancy on virtual switch "vSwitch0". Physical NIC vmnic0 is down. Affected portgroups:"vMotion_101", "Management Network", "vMotion_101", "Management Network"..</b><br><table><tr><td>Alarm name</td><td>alarm.NetworkRedundancyLostAlarm</td></tr><tr><td>Description</td><td>alarm.NetworkRedundancyLostAlarm</td></tr><tr><td>Target</td><td>Host lli-inf-esx01.llsuva.test</td></tr><tr><td>Status</td><td>Critical (previous status: Normal)</td></tr><tr><td>Triggered time</td><td>04/16/2025 11:47:13 PM</td></tr></table>Held 1 message in /var/mail/admin
