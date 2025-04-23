@@ -1,0 +1,13 @@
+Message  1:
+From lli-inf-vct01@llsuva.test  Wed Apr 23 01:54:13 2025
+Return-Path: <lli-inf-vct01@llsuva.test>
+X-Original-To: admin@lli-inf-lin03.llsuva.test
+Delivered-To: admin@lli-inf-lin03.llsuva.test
+Date: Wed, 23 Apr 2025 01:54:12 +0200
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: Alarm alarm.MigrationErrorAlarm on VM vCLS-3ec1f1d8-888b-11e9-a5a1-3a68dd0dfbe7
+Content-type: text/html; charset="utf-8"
+Status: RO
+
+This email is to notify you that an alarm has been triggered in your vCenter:<br><b>Alarm alarm.MigrationErrorAlarm on VM vCLS-3ec1f1d8-888b-11e9-a5a1-3a68dd0dfbe7<br></b>because <b>vCLS-3ec1f1d8-888b-11e9-a5a1-3a68dd0dfbe7 does not exist on lli-inf-esx02.llsuva.test in llsuva.</b><br><table><tr><td>Alarm name</td><td>alarm.MigrationErrorAlarm</td></tr><tr><td>Description</td><td>alarm.MigrationErrorAlarm</td></tr><tr><td>Target</td><td>VM vCLS-3ec1f1d8-888b-11e9-a5a1-3a68dd0dfbe7</td></tr><tr><td>Triggered time</td><td>04/22/2025 11:54:12 PM</td></tr></table>Held 2 messages in /var/mail/admin
