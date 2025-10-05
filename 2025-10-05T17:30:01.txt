@@ -1,0 +1,13 @@
+Message  1:
+From lli-inf-vct01@llsuva.test  Sun Oct  5 17:28:25 2025
+Return-Path: <lli-inf-vct01@llsuva.test>
+X-Original-To: admin@lli-inf-lin03.llsuva.test
+Delivered-To: admin@lli-inf-lin03.llsuva.test
+Date: Sun, 5 Oct 2025 17:28:25 +0200
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: Alarm alarm.MigrationErrorAlarm on Virtual Machine : lli-nl0-pass is Unset
+Content-type: text/html; charset="utf-8"
+Status: RO
+
+This email is to notify you that an alarm has been triggered in your vCenter:<br><b>Alarm alarm.MigrationErrorAlarm on VM lli-nl0-pass<br></b>because <b>Cannot migrate lli-nl0-pass from lli-inf-esx01.llsuva.test, LLI-NGAD017-SNS02 in llsuva to lli-inf-esx01.llsuva.test, LLI-NGAD018-SNS01 in llsuva.</b><br><table><tr><td>Alarm name</td><td>alarm.MigrationErrorAlarm</td></tr><tr><td>Description</td><td>alarm.MigrationErrorAlarm</td></tr><tr><td>Target</td><td>VM lli-nl0-pass</td></tr><tr><td>Triggered time</td><td>10/05/2025 03:28:25 PM</td></tr></table>Held 1 message in /var/mail/admin
