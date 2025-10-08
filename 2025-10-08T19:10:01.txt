@@ -1,0 +1,13 @@
+Message  1:
+From lli-inf-vct01@llsuva.test  Wed Oct  8 19:00:36 2025
+Return-Path: <lli-inf-vct01@llsuva.test>
+X-Original-To: admin@lli-inf-lin03.llsuva.test
+Delivered-To: admin@lli-inf-lin03.llsuva.test
+Date: Wed, 8 Oct 2025 19:00:36 +0200
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: [Normal] Alarm alarm.VmDiskConsolidationNeededAlarm on VM lli-cn5-testvm
+Content-type: text/html; charset="utf-8"
+Status: RO
+
+This email is to notify you that an alarm has been triggered in your vCenter:<br><b>[Normal] Alarm alarm.VmDiskConsolidationNeededAlarm on VM lli-cn5-testvm<br></b>because <b>Virtual machine lli-cn5-testvm disks consolidation is no longer needed on lli-inf-esx03.llsuva.test in cluster llsuva01 in llsuva..</b><br><table><tr><td>Alarm name</td><td>alarm.VmDiskConsolidationNeededAlarm</td></tr><tr><td>Description</td><td>alarm.VmDiskConsolidationNeededAlarm</td></tr><tr><td>Target</td><td>VM lli-cn5-testvm</td></tr><tr><td>Status</td><td>Normal (previous status: Warning)</td></tr><tr><td>Triggered time</td><td>10/08/2025 05:00:35 PM</td></tr></table>Held 2 messages in /var/mail/admin
