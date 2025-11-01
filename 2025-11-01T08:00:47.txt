@@ -1,0 +1,76 @@
+Message  1:
+From MAILER-DAEMON  Sat Nov  1 07:51:15 2025
+Return-Path: <>
+X-Original-To: admin@lli-inf-lin03.llsuva.test
+Delivered-To: admin@lli-inf-lin03.llsuva.test
+Date: Sat,  1 Nov 2025 07:51:15 +0100 (CET)
+From: MAILER-DAEMON@llsuva.test (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: lladmin@llsuva.test
+Auto-Submitted: auto-replied
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="D72D520898CC.1761979875/lli-inf-lin05.llsuva.test"
+Status: RO
+
+Part 1:
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+
+This is the mail system at host lli-inf-lin05.llsuva.test.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<gln@llsuva.test>: Host or domain name not found. Name service error for
+    name=llsuva.test type=A: Host found but no data record of requested type
+
+Part 2:
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+
+Part 3:
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+From lladmin@llsuva.test Sat Nov  1 07:51:14 2025
+Return-Path: <lladmin@llsuva.test>
+From: lladmin@llsuva.test
+To: gln@llsuva.test
+Cc: lladmin@llsuva.test
+Date: 1 Nov 2025 07:51:14 +0100
+Subject: Server mit Thick Disk
+Content-Type: text/plain; charset=utf-8
+
+Hallo liebe Serververantwortliche
+
+Dieses Email wird automatisch generiert, falls ein Virtueller Server existiert mit mindestens einer Thick Harddisk.
+Dies kann unter Umständen zu Kapazitätsproblemen führen.
+
+Wir bitten Dich die Disk ins Thin-Format zu konvertieren. Siehe dazu auch: https://kb.vmware.com/s/article/2014832
+
+TSO: gln 
+           Server:                lli-gln-lin03
+           Harddisk:              Hard disk 1
+           Disk Format:           Thick
+           Filename:              [LLI-NGAD016-SNS01] lli-gln-lin03/lli-gln-lin03.vmdk
+
+
+Links auf vCenter: https://lli-inf-vct01.llsuva.test/ui
+
+Solltest Du nicht (mehr) der TSO dieses Systems sein, bitten wir Dich dies zu melden und korrigieren zu lassen.
+
+Besten Dank für die Zusammenarbeit
+
+Freundliche Gruesse
+LLSUVA Admin
+
+
+Held 1 message in /var/mail/admin
