@@ -1,0 +1,39 @@
+Message  1:
+From lladmin@llsuva.test  Mon Nov  3 08:30:12 2025
+Return-Path: <lladmin@llsuva.test>
+X-Original-To: admin@lli-inf-lin03.llsuva.test
+Delivered-To: admin@lli-inf-lin03.llsuva.test
+From: lladmin@llsuva.test
+To: bje@llsuva.test
+Cc: lladmin@llsuva.test
+Date: 3 Nov 2025 08:30:12 +0100
+Subject: Snapshot Bereinigung
+Content-Type: text/plain; charset=utf-8
+Status: RO
+
+Hallo liebe Serververantwortliche
+
+Dieses Email wird automatisch generiert, falls ein VMware Snapshot eines virtuellen Servers exisitiert, welcher älter ist als 2 Wochen.
+Dies kann unter Umständen zu Kapazitäts- und/oder Performanceproblemen führen.
+
+Wir bitten Dich die Snapshots fortlaufend zu bereinigen.
+
+TSO: bje 
+           Server:                lli-bje-lin02
+           Create Date:           13.11.2024
+           Snapshot-Name:         VM Snapshot 11%2f13%2f2024, 3:52:16 PM
+           Description:           Nach Installation
+
+
+Links auf vCenter: https://lli-inf-vct01.llsuva.test/ui
+
+Falls Du den Snapshot nicht selber generiert hast, bitten wir dich, dieses Email entsprechen weiterzuleiten. 
+Solltest Du nicht (mehr) der TSO dieses Systems sein, bitten wir Dich dies zu melden und korrigieren zu lassen.
+
+Besten Dank für die Zusammenarbeit
+
+Freundliche Gruesse
+LLSUVA Admin
+
+
+Held 2 messages in /var/mail/admin
