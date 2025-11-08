@@ -1,0 +1,13 @@
+Message  1:
+From lli-inf-vct01@llsuva.test  Sat Nov  8 00:53:31 2025
+Return-Path: <lli-inf-vct01@llsuva.test>
+X-Original-To: admin@lli-inf-lin03.llsuva.test
+Delivered-To: admin@lli-inf-lin03.llsuva.test
+Date: Sat, 8 Nov 2025 00:53:31 +0100
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: Alarm alarm.StorageConnectivityAlarm on Host lli-inf-esx02.llsuva.test
+Content-type: text/html; charset="utf-8"
+Status: RO
+
+This email is to notify you that an alarm has been triggered in your vCenter:<br><b>Alarm alarm.StorageConnectivityAlarm on Host lli-inf-esx02.llsuva.test<br></b>because <b>Lost connection to server lli-inf-apl03.llsuva.test mount point /DefaultStorageDomain/cohesity_int_22826_1df75/fs mounted as 6ddb888f-57df6e96-0000-000000000000 (cohesity_int_22826_1df75)..</b><br><table><tr><td>Alarm name</td><td>alarm.StorageConnectivityAlarm</td></tr><tr><td>Description</td><td>alarm.StorageConnectivityAlarm</td></tr><tr><td>Target</td><td>Host lli-inf-esx02.llsuva.test</td></tr><tr><td>Triggered time</td><td>11/07/2025 11:53:31 PM</td></tr></table>Held 2 messages in /var/mail/admin
