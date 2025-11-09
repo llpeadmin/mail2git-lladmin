@@ -1,0 +1,38 @@
+Message  1:
+From lladmin@llsuva.test  Sun Nov  9 07:51:15 2025
+Return-Path: <lladmin@llsuva.test>
+X-Original-To: admin@lli-inf-lin03.llsuva.test
+Delivered-To: admin@lli-inf-lin03.llsuva.test
+From: lladmin@llsuva.test
+To: gln@llsuva.test
+Cc: lladmin@llsuva.test
+Date: 9 Nov 2025 07:51:15 +0100
+Subject: Server mit Thick Disk
+Content-Type: text/plain; charset=utf-8
+Status: RO
+
+Hallo liebe Serververantwortliche
+
+Dieses Email wird automatisch generiert, falls ein Virtueller Server existiert mit mindestens einer Thick Harddisk.
+Dies kann unter Umständen zu Kapazitätsproblemen führen.
+
+Wir bitten Dich die Disk ins Thin-Format zu konvertieren. Siehe dazu auch: https://kb.vmware.com/s/article/2014832
+
+TSO: gln 
+           Server:                lli-gln-lin03
+           Harddisk:              Hard disk 1
+           Disk Format:           Thick
+           Filename:              [LLI-NGAD016-SNS01] lli-gln-lin03/lli-gln-lin03.vmdk
+
+
+Links auf vCenter: https://lli-inf-vct01.llsuva.test/ui
+
+Solltest Du nicht (mehr) der TSO dieses Systems sein, bitten wir Dich dies zu melden und korrigieren zu lassen.
+
+Besten Dank für die Zusammenarbeit
+
+Freundliche Gruesse
+LLSUVA Admin
+
+
+Held 3 messages in /var/mail/admin
