@@ -1,0 +1,13 @@
+Message  1:
+From lli-inf-vct01@llsuva.test  Tue Nov 11 06:20:52 2025
+Return-Path: <lli-inf-vct01@llsuva.test>
+X-Original-To: admin@lli-inf-lin03.llsuva.test
+Delivered-To: admin@lli-inf-lin03.llsuva.test
+Date: Tue, 11 Nov 2025 06:20:52 +0100
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: [Warning] Alarm alarm.HostCPUUsageAlarm on Host lli-inf-esx03.llsuva.test
+Content-type: text/html; charset="utf-8"
+Status: RO
+
+This email is to notify you that an alarm has been triggered in your vCenter:<br><b>[Warning] Alarm alarm.HostCPUUsageAlarm on Host lli-inf-esx03.llsuva.test<br></b>because <b>Host Metric CPU Usage is equal to 91%.</b><br><table><tr><td>Alarm name</td><td>alarm.HostCPUUsageAlarm</td></tr><tr><td>Description</td><td>alarm.HostCPUUsageAlarm</td></tr><tr><td>Target</td><td>Host lli-inf-esx03.llsuva.test</td></tr><tr><td>Status</td><td>Warning (previous status: Normal)</td></tr><tr><td>Triggered time</td><td>11/11/2025 05:20:52 AM</td></tr></table>Held 3 messages in /var/mail/admin
