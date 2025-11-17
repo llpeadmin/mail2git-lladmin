@@ -1,2 +1,0 @@
-s-nail version v14.9.22.  Type `?' for help
-Held 18 messages in /var/spool/mail/admin
