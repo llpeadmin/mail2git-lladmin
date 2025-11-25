@@ -1,0 +1,15 @@
+s-nail version v14.9.22.  Type `?' for help
+/var/spool/mail/admin: 1 message
+▸   1 Daniel Haegi          2025-11-25 10:41   28/1246  "test4 from hd6 - plea"
+[-- Message  1 -- 28 lines, 1246 bytes --]:
+Message-ID: <c2fe2147bba345835e5764b573fc7ab52b8a453c.camel@lli-hd6-lin01.llsuva.test>
+Subject: test4 from hd6 - please ignore
+From: Daniel Haegi <hd6@lli-hd6-lin01.llsuva.test>
+Reply-To: hd6@lli-hd6-lin01.llsuva.test
+To: lladmin@llsuva.test
+Date: Tue, 25 Nov 2025 10:41:59 +0100
+
+text 4
+
+
+Held 1 message in /var/spool/mail/admin
