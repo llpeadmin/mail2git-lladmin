@@ -1,0 +1,15 @@
+s-nail version v14.9.22.  Type `?' for help
+/var/spool/mail/admin: 1 message
+▸   1 Daniel Haegi          2025-11-25 11:15   28/1238  "test6 from hd6 - igno"
+[-- Message  1 -- 28 lines, 1238 bytes --]:
+Message-ID: <1daf0f997edbc49dc5a14b0acad6a45445d402b8.camel@lli-hd6-lin01.llsuva.test>
+Subject: test6 from hd6 - ignore
+From: Daniel Haegi <hd6@lli-hd6-lin01.llsuva.test>
+Reply-To: hd6@lli-hd6-lin01.llsuva.test
+To: lladmin@llsuva.test
+Date: Tue, 25 Nov 2025 11:15:19 +0100
+
+test6
+
+
+Held 1 message in /var/spool/mail/admin
