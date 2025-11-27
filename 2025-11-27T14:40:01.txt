@@ -1,0 +1,11 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 1 message
+▸   1 lli-inf-vct01@llsuva  2025-11-27 14:25   27/2135  "[Warning] Alarm alarm"
+[-- Message  1 -- 27 lines, 2135 bytes --]:
+Date: Thu, 27 Nov 2025 14:25:22 +0100
+Message-Id: <202511271325.5ARDPMbI623740@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: [Warning] Alarm alarm.StoragePodSDRSRecommendation on Folder llsuva
+
+Held 1 message in /var/spool/mail/admin
