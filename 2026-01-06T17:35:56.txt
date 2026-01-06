@@ -1,0 +1,13 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 3 messages 2 unread
+    1 lli-inf-vct01@llsuva  2026-01-06 09:16   27/2287  "[Critical] Alarm alar"
+▸U  2 lli-inf-vct01@llsuva  2026-01-06 09:16   27/2150  "Alarm alarm.HostError"
+ U  3 admin@lli-inf-lin03.  2026-01-02 21:15   22/1193  "Mail from sanswitchsa"
+[-- Message  1 -- 27 lines, 2287 bytes --]:
+Date: Tue, 6 Jan 2026 09:16:43 +0100
+Message-Id: <202601060816.6068Gh292229024@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: [Critical] Alarm alarm.HAfailoverFailed on VM lli-inf-apl03-01
+
+Held 3 messages in /var/spool/mail/admin
