@@ -1,0 +1,12 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 2 messages 1 unread
+    1 lli-inf-vct01@llsuva  2026-01-06 09:16   27/2151  "Alarm alarm.HostError"
+▸U  2 admin@lli-inf-lin03.  2026-01-02 21:15   22/1193  "Mail from sanswitchsa"
+[-- Message  1 -- 27 lines, 2151 bytes --]:
+Date: Tue, 6 Jan 2026 09:16:13 +0100
+Message-Id: <202601060816.6068GD9T2228595@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: Alarm alarm.HostErrorAlarm on Host lli-inf-esx02.llsuva.test
+
+Held 2 messages in /var/spool/mail/admin
