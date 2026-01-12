@@ -1,0 +1,56 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 6 messages 5 unread
+    1 lladmin@llsuva.test   2026-01-12 08:30   52/2797  "Snapshot Bereinigung "
+▸U  2 lladmin@llsuva.test   2026-01-12 08:30   44/2292  "Snapshot Bereinigung "
+ U  3 lladmin@llsuva.test   2026-01-12 08:30   40/2032  "Snapshot Bereinigung "
+ U  4 lladmin@llsuva.test   2026-01-12 08:30   41/2045  "Snapshot Bereinigung "
+ U  5 lladmin@llsuva.test   2026-01-12 08:30   46/2390  "Snapshot Bereinigung "
+ U  6 Mail Delivery System  2026-01-12 08:30  101/4143  "Undelivered Mail Retu"
+[-- Message  1 -- 52 lines, 2797 bytes --]:
+From: lladmin@llsuva.test
+To: a1l@llsuva.test
+Cc: lladmin@llsuva.test
+Date: 12 Jan 2026 08:30:11 +0100
+Subject: Snapshot Bereinigung
+
+Hallo liebe Serververantwortliche
+
+Dieses Email wird automatisch generiert, falls ein VMware Snapshot eines virtuellen Servers exisitiert, welcher älter ist als 2 Wochen.
+Dies kann unter Umständen zu Kapazitäts- und/oder Performanceproblemen führen.
+
+Wir bitten Dich die Snapshots fortlaufend zu bereinigen.
+
+TSO: a1l 
+           Server:                lli-a1l-lin02
+           Create Date:           11.08.2025
+           Snapshot-Name:         11.08
+           Description:           
+ 
+           Server:                lli-a1l-lin02
+           Create Date:           11.08.2025
+           Snapshot-Name:         VM Snapshot 8/11/2025, 1:48:46 PM
+           Description:           
+ 
+           Server:                lli-a1l-win04-DC
+           Create Date:           08.07.2025
+           Snapshot-Name:         VM Snapshot 7/8/2025, 8:34:16 AM
+           Description:           
+ 
+           Server:                lli-a1l-lin01
+           Create Date:           04.12.2025
+           Snapshot-Name:         VM Snapshot 12/4/2025, 3:37:21 PM
+           Description:           
+
+
+Links auf vCenter: https://lli-inf-vct01.llsuva.test/ui
+
+Falls Du den Snapshot nicht selber generiert hast, bitten wir dich, dieses Email entsprechen weiterzuleiten. 
+Solltest Du nicht (mehr) der TSO dieses Systems sein, bitten wir Dich dies zu melden und korrigieren zu lassen.
+
+Besten Dank für die Zusammenarbeit
+
+Freundliche Gruesse
+LLSUVA Admin
+
+
+Held 6 messages in /var/spool/mail/admin
