@@ -1,0 +1,86 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 1 message
+▸   1 Mail Delivery System  2026-01-19 08:06  117/5365  "Undelivered Mail Retu"
+[-- Message  1 -- 117 lines, 5365 bytes --]:
+Date: Mon, 19 Jan 2026 08:06:41 +0100 (CET)
+From: MAILER-DAEMON@lli-a1l-lin01.llsuva.test (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: lladmin@llsuva.test
+Message-Id: <20260119070641.D901F1055F4A@lli-a1l-lin01.llsuva.test>
+
+
+[-- #1.1 19/637 text/plain, 8bit, utf-8 --]
+[-- Notification --]
+
+This is the mail system at host lli-a1l-lin01.llsuva.test.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<a1l@lli-a1l-lin01.llsuva.test>: cannot update mailbox /var/mail/a1l for user
+    a1l. destination /var/mail/a1l is not owned by recipient
+
+[-- #1.2 15/515 message/delivery-status, 7bit, us-ascii --]
+[-- Delivery report --]
+
+[-- No MIME handler installed, or not applicable --]
+
+[-- #1.3 52/2807 message/rfc822 --]
+[-- Undelivered Message --]
+
+From: lladmin@llsuva.test
+To: a1l@llsuva.test
+Cc: lladmin@llsuva.test
+Date: 14 Jan 2026 07:51:14 +0100
+Subject: Server mit Thick Disk
+
+
+[-- #1.3.1 48/2704 text/plain, base64, utf-8 --]
+
+Hallo liebe Serververantwortliche
+
+Dieses Email wird automatisch generiert, falls ein Virtueller Server existiert mit mindestens einer Thick Harddisk.
+Dies kann unter Umständen zu Kapazitätsproblemen führen.
+
+Wir bitten Dich die Disk ins Thin-Format zu konvertieren. Siehe dazu auch: https://kb.vmware.com/s/article/2014832
+
+TSO: a1l 
+           Server:                lli-a1l-win03
+           Harddisk:              Hard disk 2
+           Disk Format:           Thick
+           Filename:              [LLI-NGAD018-SNS01] lli-a1l-win03/lli-a1l-win03_1.vmdk
+ 
+           Server:                lli-a1l-lin02
+           Harddisk:              Hard disk 1
+           Disk Format:           Thick
+           Filename:              [LLI-NGAD016-SNS02] lli-a1l-lin02/lli-a1l-lin02-000002.vmdk
+ 
+           Server:                lli-a1l-win01
+           Harddisk:              Hard disk 1
+           Disk Format:           Thick
+           Filename:              [LLI-NGAD017-SNS02] lli-a1l-win01/lli-a1l-win01.vmdk
+ 
+           Server:                lli-a1l-win02
+           Harddisk:              Hard disk 1
+           Disk Format:           Thick
+           Filename:              [LLI-NGAD017-SNS02] lli-a1l-win02-ISS/lli-a1l-win02-ISS.vmdk
+
+
+Links auf vCenter: https://lli-inf-vct01.llsuva.test/ui
+
+Solltest Du nicht (mehr) der TSO dieses Systems sein, bitten wir Dich dies zu melden und korrigieren zu lassen.
+
+Besten Dank für die Zusammenarbeit
+
+Freundliche Gruesse
+LLSUVA Admin
+
+
+Held 1 message in /var/spool/mail/admin
