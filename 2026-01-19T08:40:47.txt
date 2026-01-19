@@ -1,0 +1,46 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 6 messages 5 unread
+    1 lladmin@llsuva.test   2026-01-19 08:30   46/2411  "Snapshot Bereinigung "
+▸U  2 lladmin@llsuva.test   2026-01-19 08:30   41/2045  "Snapshot Bereinigung "
+ U  3 lladmin@llsuva.test   2026-01-19 08:30   57/3153  "Snapshot Bereinigung "
+ U  4 lladmin@llsuva.test   2026-01-19 08:30   42/2114  "Snapshot Bereinigung "
+ U  5 lladmin@llsuva.test   2026-01-19 08:30   42/2122  "Snapshot Bereinigung "
+ U  6 Mail Delivery System  2026-01-19 08:30  101/4143  "Undelivered Mail Retu"
+[-- Message  1 -- 46 lines, 2411 bytes --]:
+From: lladmin@llsuva.test
+To: hd6@llsuva.test
+Cc: lladmin@llsuva.test
+Date: 19 Jan 2026 08:30:11 +0100
+Subject: Snapshot Bereinigung
+
+Hallo liebe Serververantwortliche
+
+Dieses Email wird automatisch generiert, falls ein VMware Snapshot eines virtuellen Servers exisitiert, welcher älter ist als 2 Wochen.
+Dies kann unter Umständen zu Kapazitäts- und/oder Performanceproblemen führen.
+
+Wir bitten Dich die Snapshots fortlaufend zu bereinigen.
+
+TSO: hd6 
+           Server:                lli-hd6-lin01
+           Create Date:           03.01.2026
+           Snapshot-Name:         _cohesity_m_snapshot-5627439173923498-39279
+           Description:           :nonquiesced:Cohesity snapshot 5627439173923498-39279 for VM vm-1028
+ 
+           Server:                lli-hd6-lin033
+           Create Date:           06.11.2025
+           Snapshot-Name:         VM Snapshot 11/6/2025, 5:11:03 PM
+           Description:           vor leapp versuch
+
+
+Links auf vCenter: https://lli-inf-vct01.llsuva.test/ui
+
+Falls Du den Snapshot nicht selber generiert hast, bitten wir dich, dieses Email entsprechen weiterzuleiten. 
+Solltest Du nicht (mehr) der TSO dieses Systems sein, bitten wir Dich dies zu melden und korrigieren zu lassen.
+
+Besten Dank für die Zusammenarbeit
+
+Freundliche Gruesse
+LLSUVA Admin
+
+
+Held 6 messages in /var/spool/mail/admin
