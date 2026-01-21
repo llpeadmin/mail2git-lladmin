@@ -1,0 +1,14 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 2 messages 1 unread
+    1 admin@lli-inf-lin03.  2026-01-21 21:15   22/1194  "Mail from sanswitchsa"
+▸U  2 admin@lli-inf-lin03.  2026-01-21 21:15   22/1193  "Mail from sanswitchsa"
+[-- Message  1 -- 22 lines, 1194 bytes --]:
+Date: Wed, 21 Jan 2026 21:15:02 +0100
+To: lladmin@llsuva.test
+Subject: Mail from sanswitchsave
+Message-Id: <20260121201502.0A6002093F8C@lli-inf-lin03.llsuva.test>
+From: admin@lli-inf-lin03.llsuva.test
+
+*** 20260121T2115 - ssh admin@lli-inf-snd10 "configshow -all" failed to create  /app/lib/backup/san/lli-inf-snd10_20260121T2115_configshow-all.txt, please check sanswitchsave on lli-inf-lin03 ***
+
+Held 2 messages in /var/spool/mail/admin
