@@ -1,0 +1,38 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 3 messages 2 unread
+    1 lladmin@llsuva.test   2026-01-26 08:30   42/2115  "Snapshot Bereinigung "
+▸U  2 lladmin@llsuva.test   2026-01-26 08:30   42/2122  "Snapshot Bereinigung "
+ U  3 Mail Delivery System  2026-01-26 08:30  101/4143  "Undelivered Mail Retu"
+[-- Message  1 -- 42 lines, 2115 bytes --]:
+From: lladmin@llsuva.test
+To: m3j@llsuva.test
+Cc: lladmin@llsuva.test
+Date: 26 Jan 2026 08:30:11 +0100
+Subject: Snapshot Bereinigung
+
+Hallo liebe Serververantwortliche
+
+Dieses Email wird automatisch generiert, falls ein VMware Snapshot eines virtuellen Servers exisitiert, welcher älter ist als 2 Wochen.
+Dies kann unter Umständen zu Kapazitäts- und/oder Performanceproblemen führen.
+
+Wir bitten Dich die Snapshots fortlaufend zu bereinigen.
+
+TSO: m3j 
+           Server:                lli-m3j-lin01
+           Create Date:           04.01.2026
+           Snapshot-Name:         _cohesity_m_snapshot-5627439173923498-39315
+           Description:           :nonquiesced:Cohesity snapshot 5627439173923498-39315 for VM vm-34018
+
+
+Links auf vCenter: https://lli-inf-vct01.llsuva.test/ui
+
+Falls Du den Snapshot nicht selber generiert hast, bitten wir dich, dieses Email entsprechen weiterzuleiten. 
+Solltest Du nicht (mehr) der TSO dieses Systems sein, bitten wir Dich dies zu melden und korrigieren zu lassen.
+
+Besten Dank für die Zusammenarbeit
+
+Freundliche Gruesse
+LLSUVA Admin
+
+
+Held 3 messages in /var/spool/mail/admin
