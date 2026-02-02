@@ -1,0 +1,12 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 2 messages 1 unread
+    1 lli-inf-vct01@llsuva  2026-02-02 11:24   27/2063  "[Normal] Alarm alarm."
+▸U  2 lli-inf-vct01@llsuva  2026-02-02 11:24   27/1974  "Alarm alarm.HealthSta"
+[-- Message  1 -- 27 lines, 2063 bytes --]:
+Date: Mon, 2 Feb 2026 11:24:26 +0100
+Message-Id: <202602021024.612AOQeL1075478@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: [Normal] Alarm alarm.VsphereUiHealthAlarm on Folder Datacenters
+
+Held 2 messages in /var/spool/mail/admin
