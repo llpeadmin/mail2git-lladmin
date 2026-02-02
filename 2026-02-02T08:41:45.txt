@@ -1,0 +1,72 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 1 message
+▸   1 Mail Delivery System  2026-02-02 08:30  101/4143  "Undelivered Mail Retu"
+[-- Message  1 -- 101 lines, 4143 bytes --]:
+Date: Mon, 2 Feb 2026 08:30:11 +0100 (CET)
+From: Mail Delivery System <MAILER-DAEMON@llsuva.test>
+Subject: Undelivered Mail Returned to Sender
+To: lladmin@llsuva.test
+Message-Id: <20260202073011.E49262089BC0@lli-inf-lin05.llsuva.test>
+
+
+[-- #1.1 19/652 text/plain, 8bit, utf-8 --]
+[-- Notification --]
+
+This is the mail system at host lli-inf-lin05.llsuva.test.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<hd6mgmt@llsuva.test>: Host or domain name not found. Name service error for
+    name=llsuva.test type=A: Host found but no data record of requested type
+
+[-- #1.2 16/538 message/delivery-status, 7bit, us-ascii --]
+[-- Delivery report --]
+
+[-- No MIME handler installed, or not applicable --]
+
+[-- #1.3 38/1780 message/rfc822 --]
+[-- Undelivered Message --]
+
+From: lladmin@llsuva.test
+To: hd6mgmt@llsuva.test
+Cc: lladmin@llsuva.test
+Date: 2 Feb 2026 08:30:11 +0100
+Subject: Snapshot Bereinigung
+
+
+[-- #1.3.1 34/1677 text/plain, base64, utf-8 --]
+
+Hallo liebe Serververantwortliche
+
+Dieses Email wird automatisch generiert, falls ein VMware Snapshot eines virtuellen Servers exisitiert, welcher älter ist als 2 Wochen.
+Dies kann unter Umständen zu Kapazitäts- und/oder Performanceproblemen führen.
+
+Wir bitten Dich die Snapshots fortlaufend zu bereinigen.
+
+TSO: hd6mgmt 
+           Server:                lli-hd6-ocpmgmt01
+           Create Date:           30.10.2025
+           Snapshot-Name:         VM Snapshot 10/30/2025, 6:20:16 PM
+           Description:           vor owncast test
+
+
+Links auf vCenter: https://lli-inf-vct01.llsuva.test/ui
+
+Falls Du den Snapshot nicht selber generiert hast, bitten wir dich, dieses Email entsprechen weiterzuleiten. 
+Solltest Du nicht (mehr) der TSO dieses Systems sein, bitten wir Dich dies zu melden und korrigieren zu lassen.
+
+Besten Dank für die Zusammenarbeit
+
+Freundliche Gruesse
+LLSUVA Admin
+
+
+Held 1 message in /var/spool/mail/admin
