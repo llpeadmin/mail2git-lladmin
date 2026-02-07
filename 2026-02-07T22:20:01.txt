@@ -1,0 +1,11 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 1 message
+▸   1 lli-inf-vct01@llsuva  2026-02-07 22:11   27/2083  "[Normal] Alarm alarm."
+[-- Message  1 -- 27 lines, 2083 bytes --]:
+Date: Sat, 7 Feb 2026 22:11:30 +0100
+Message-Id: <202602072111.617LBUYM1677713@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: [Normal] Alarm alarm.HostCPUUsageAlarm on Host lli-inf-esx01.llsuva.test
+
+Held 1 message in /var/spool/mail/admin
