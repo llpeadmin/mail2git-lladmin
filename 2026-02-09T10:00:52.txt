@@ -1,0 +1,17 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 7 messages 6 unread
+    1 lli-inf-vct01@llsuva  2026-02-09 09:59   27/2023  "Alarm alarm.HostConne"
+▸U  2 lli-inf-vct01@llsuva  2026-02-09 09:59   27/2166  "[Critical] Alarm alar"
+ U  3 lli-inf-vct01@llsuva  2026-02-09 09:59   27/2188  "Alarm alarm.HostConne"
+ U  4 lli-inf-vct01@llsuva  2026-02-09 09:59   27/2166  "[Critical] Alarm alar"
+ U  5 lli-inf-vct01@llsuva  2026-02-09 09:59   27/2022  "Alarm alarm.HostConne"
+ U  6 lli-inf-vct01@llsuva  2026-02-09 09:59   27/2188  "Alarm alarm.HostConne"
+ U  7 lli-inf-vct01@llsuva  2026-02-09 09:59   27/2022  "Alarm alarm.HostConne"
+[-- Message  1 -- 27 lines, 2023 bytes --]:
+Date: Mon, 9 Feb 2026 09:59:54 +0100
+Message-Id: <202602090859.6198xsUn2990000@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: Alarm alarm.HostConnectivityAlarm on Host lli-inf-esx01.llsuva.test
+
+Held 7 messages in /var/spool/mail/admin
