@@ -1,0 +1,15 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 5 messages 4 unread
+    1 lli-inf-vct01@llsuva  2026-02-09 09:59   27/2023  "Alarm alarm.HostConne"
+▸U  2 lli-inf-vct01@llsuva  2026-02-09 10:01   27/2210  "Alarm alarm.StorageCo"
+ U  3 lli-inf-vct01@llsuva  2026-02-09 10:01   27/2210  "Alarm alarm.StorageCo"
+ U  4 lli-inf-vct01@llsuva  2026-02-09 10:01   27/2210  "Alarm alarm.StorageCo"
+ U  5 lli-inf-vct01@llsuva  2026-02-09 10:01   27/2150  "Alarm alarm.Migration"
+[-- Message  1 -- 27 lines, 2023 bytes --]:
+Date: Mon, 9 Feb 2026 09:59:58 +0100
+Message-Id: <202602090859.6198xwZE2990117@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: Alarm alarm.HostConnectivityAlarm on Host lli-inf-esx02.llsuva.test
+
+Held 5 messages in /var/spool/mail/admin
