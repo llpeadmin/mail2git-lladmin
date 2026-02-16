@@ -1,0 +1,42 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 7 messages 6 unread
+    1 lladmin@llsuva.test   2026-02-16 08:30   40/2021  "Snapshot Bereinigung "
+▸U  2 lladmin@llsuva.test   2026-02-16 08:30   46/2410  "Snapshot Bereinigung "
+ U  3 lladmin@llsuva.test   2026-02-16 08:30   41/2045  "Snapshot Bereinigung "
+ U  4 lladmin@llsuva.test   2026-02-16 08:30   57/3153  "Snapshot Bereinigung "
+ U  5 lladmin@llsuva.test   2026-02-16 08:30   42/2114  "Snapshot Bereinigung "
+ U  6 lladmin@llsuva.test   2026-02-16 08:30   42/2122  "Snapshot Bereinigung "
+ U  7 Mail Delivery System  2026-02-16 08:30  101/4143  "Undelivered Mail Retu"
+[-- Message  1 -- 40 lines, 2021 bytes --]:
+From: lladmin@llsuva.test
+To: gln@llsuva.test
+Cc: lladmin@llsuva.test
+Date: 16 Feb 2026 08:30:11 +0100
+Subject: Snapshot Bereinigung
+
+Hallo liebe Serververantwortliche
+
+Dieses Email wird automatisch generiert, falls ein VMware Snapshot eines virtuellen Servers exisitiert, welcher älter ist als 2 Wochen.
+Dies kann unter Umständen zu Kapazitäts- und/oder Performanceproblemen führen.
+
+Wir bitten Dich die Snapshots fortlaufend zu bereinigen.
+
+TSO: gln 
+           Server:                lli-gln-lin02
+           Create Date:           20.01.2026
+           Snapshot-Name:         Snapshot lli-gln-lin03 1/20/2026, 4:14:08 PM
+           Description:           
+
+
+Links auf vCenter: https://lli-inf-vct01.llsuva.test/ui
+
+Falls Du den Snapshot nicht selber generiert hast, bitten wir dich, dieses Email entsprechen weiterzuleiten. 
+Solltest Du nicht (mehr) der TSO dieses Systems sein, bitten wir Dich dies zu melden und korrigieren zu lassen.
+
+Besten Dank für die Zusammenarbeit
+
+Freundliche Gruesse
+LLSUVA Admin
+
+
+Held 7 messages in /var/spool/mail/admin
