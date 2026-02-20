@@ -1,0 +1,11 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 1 message
+▸   1 lli-inf-vct01@llsuva  2026-02-20 13:29   27/2142  "[Normal] Alarm alarm."
+[-- Message  1 -- 27 lines, 2142 bytes --]:
+Date: Fri, 20 Feb 2026 13:29:59 +0100
+Message-Id: <202602201229.61KCTxS64129493@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: [Normal] Alarm alarm.HAfailoverFailed on VM lli-wl4-lin02-ubuntu
+
+Held 1 message in /var/spool/mail/admin
