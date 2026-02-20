@@ -1,0 +1,14 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 4 messages 3 unread
+    1 lli-inf-vct01@llsuva  2026-02-20 10:18   27/2186  "[Critical] Alarm alar"
+▸U  2 lli-inf-vct01@llsuva  2026-02-20 10:19   27/2169  "[Critical] Alarm alar"
+ U  3 lli-inf-vct01@llsuva  2026-02-20 10:19   27/2191  "Alarm alarm.HostConne"
+ U  4 lli-inf-vct01@llsuva  2026-02-20 10:19   27/2025  "Alarm alarm.HostConne"
+[-- Message  1 -- 27 lines, 2186 bytes --]:
+Date: Fri, 20 Feb 2026 10:18:47 +0100
+Message-Id: <202602200918.61K9Ila64039740@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: [Critical] Alarm alarm.HAhostStatus on Host lli-inf-esx01.llsuva.test
+
+Held 4 messages in /var/spool/mail/admin
