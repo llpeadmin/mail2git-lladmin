@@ -1,0 +1,50 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 1 message
+▸   1 lladmin@llsuva.test   2026-02-25 07:51   52/2862  "Server mit Thick Disk"
+[-- Message  1 -- 52 lines, 2862 bytes --]:
+From: lladmin@llsuva.test
+To: a1l@llsuva.test
+Cc: lladmin@llsuva.test
+Date: 25 Feb 2026 07:51:15 +0100
+Subject: Server mit Thick Disk
+
+Hallo liebe Serververantwortliche
+
+Dieses Email wird automatisch generiert, falls ein Virtueller Server existiert mit mindestens einer Thick Harddisk.
+Dies kann unter Umständen zu Kapazitätsproblemen führen.
+
+Wir bitten Dich die Disk ins Thin-Format zu konvertieren. Siehe dazu auch: https://kb.vmware.com/s/article/2014832
+
+TSO: a1l 
+           Server:                lli-a1l-win02
+           Harddisk:              Hard disk 1
+           Disk Format:           Thick
+           Filename:              [LLI-NGAD017-SNS02] lli-a1l-win02-ISS/lli-a1l-win02-ISS.vmdk
+ 
+           Server:                lli-a1l-win01
+           Harddisk:              Hard disk 1
+           Disk Format:           Thick
+           Filename:              [LLI-NGAD017-SNS02] lli-a1l-win01/lli-a1l-win01.vmdk
+ 
+           Server:                lli-a1l-lin02
+           Harddisk:              Hard disk 1
+           Disk Format:           Thick
+           Filename:              [LLI-NGAD016-SNS02] lli-a1l-lin02/lli-a1l-lin02-000002.vmdk
+ 
+           Server:                lli-a1l-win03
+           Harddisk:              Hard disk 2
+           Disk Format:           Thick
+           Filename:              [LLI-NGAD018-SNS01] lli-a1l-win03/lli-a1l-win03_1.vmdk
+
+
+Links auf vCenter: https://lli-inf-vct01.llsuva.test/ui
+
+Solltest Du nicht (mehr) der TSO dieses Systems sein, bitten wir Dich dies zu melden und korrigieren zu lassen.
+
+Besten Dank für die Zusammenarbeit
+
+Freundliche Gruesse
+LLSUVA Admin
+
+
+Held 1 message in /var/spool/mail/admin
