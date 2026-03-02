@@ -1,0 +1,11 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 1 message
+▸   1 lli-inf-vct01@llsuva  2026-03-02 13:50   27/2227  "Alarm alarm.StorageCo"
+[-- Message  1 -- 27 lines, 2227 bytes --]:
+Date: Mon, 2 Mar 2026 13:50:21 +0100
+Message-Id: <202603021250.622CoL7e2418860@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: Alarm alarm.StorageConnectivityAlarm on Host lli-inf-esx01.llsuva.test
+
+Held 1 message in /var/spool/mail/admin
