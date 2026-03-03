@@ -1,0 +1,12 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 2 messages 1 unread
+    1 lli-inf-vct01@llsuva  2026-03-03 13:52   27/2155  "Alarm alarm.StorageCo"
+▸U  2 lli-inf-vct01@llsuva  2026-03-03 13:55   27/2134  "Alarm alarm.HostError"
+[-- Message  1 -- 27 lines, 2155 bytes --]:
+Date: Tue, 3 Mar 2026 13:52:46 +0100
+Message-Id: <202603031252.623CqkDm3092070@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: Alarm alarm.StorageConnectivityAlarm on Host lli-inf-esx01.llsuva.test
+
+Held 2 messages in /var/spool/mail/admin
