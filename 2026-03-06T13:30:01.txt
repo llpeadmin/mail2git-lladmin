@@ -1,0 +1,11 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 1 message
+▸   1 lli-inf-vct01@llsuva  2026-03-06 13:20   27/2148  "Alarm alarm.Migration"
+[-- Message  1 -- 27 lines, 2148 bytes --]:
+Date: Fri, 6 Mar 2026 13:20:23 +0100
+Message-Id: <202603061220.626CKNQw894371@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: Alarm alarm.MigrationErrorAlarm on Virtual Machine : vCLS-3d46ed58-8880-11e9-b0ed-3a68dd0df59f is Unset
+
+Held 1 message in /var/spool/mail/admin
