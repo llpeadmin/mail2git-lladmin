@@ -1,0 +1,12 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 2 messages 1 unread
+    1 lli-inf-vct01@llsuva  2026-03-11 11:42   27/2135  "[Critical] Alarm alar"
+▸U  2 lli-inf-vct01@llsuva  2026-03-11 11:48   27/1966  "Alarm alarm.HealthSta"
+[-- Message  1 -- 27 lines, 2135 bytes --]:
+Date: Wed, 11 Mar 2026 11:42:39 +0100
+Message-Id: <202603111042.62BAgd59061367@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: [Critical] Alarm alarm.HAcannotFindMaster on Resource-pool llsuva01
+
+Held 2 messages in /var/spool/mail/admin
