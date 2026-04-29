@@ -1,0 +1,13 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 3 messages 2 unread
+    1 lli-inf-vct01@llsuva  2026-04-26 22:06   27/2096  "[Warning] Alarm alarm"
+▸U  2 Mail Delivery System  2026-04-26 08:07   99/4035  "Undelivered Mail Retu"
+ U  3 Mail Delivery System  2026-04-27 08:07   98/3967  "Undelivered Mail Retu"
+[-- Message  1 -- 27 lines, 2096 bytes --]:
+Date: Sun, 26 Apr 2026 22:06:35 +0200
+Message-Id: <202604262006.63QK6ZMk1419334@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: [Warning] Alarm alarm.HostCPUUsageAlarm on Host lli-inf-esx03.llsuva.test
+
+Held 3 messages in /var/spool/mail/admin
