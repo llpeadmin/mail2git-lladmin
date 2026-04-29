@@ -1,0 +1,20 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 10 messages 9 unread
+    1 lli-inf-vct01@llsuva  2026-04-24 15:10   27/2028  "Alarm alarm.HostConne"
+▸U  2 lli-inf-vct01@llsuva  2026-04-24 12:51   27/2215  "Alarm alarm.StorageCo"
+ U  3 lli-inf-vct01@llsuva  2026-04-24 15:12   27/2215  "Alarm alarm.StorageCo"
+ U  4 lli-inf-vct01@llsuva  2026-04-24 12:51   27/2215  "Alarm alarm.StorageCo"
+ U  5 lli-inf-vct01@llsuva  2026-04-24 15:10   27/2193  "Alarm alarm.HostConne"
+ U  6 lli-inf-vct01@llsuva  2026-04-24 15:10   27/2171  "[Critical] Alarm alar"
+ U  7 lli-inf-vct01@llsuva  2026-04-24 15:10   27/2027  "Alarm alarm.HostConne"
+ U  8 lli-inf-vct01@llsuva  2026-04-24 15:10   27/2027  "Alarm alarm.HostConne"
+ U  9 lladmin@llsuva.test   2026-04-27 08:30   42/2116  "Snapshot Bereinigung "
+ U 10 lladmin@llsuva.test   2026-04-27 08:30   40/2022  "Snapshot Bereinigung "
+[-- Message  1 -- 27 lines, 2028 bytes --]:
+Date: Fri, 24 Apr 2026 15:10:51 +0200
+Message-Id: <202604241310.63ODAp2O3267249@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: Alarm alarm.HostConnectivityAlarm on Host lli-inf-esx03.llsuva.test
+
+Held 10 messages in /var/spool/mail/admin
