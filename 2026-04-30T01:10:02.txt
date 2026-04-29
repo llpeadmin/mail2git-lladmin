@@ -1,0 +1,11 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 1 message
+▸   1 lli-inf-vct01@llsuva  2026-04-30 01:08   27/2017  "[Normal] Alarm alarm."
+[-- Message  1 -- 27 lines, 2017 bytes --]:
+Date: Thu, 30 Apr 2026 01:08:33 +0200
+Message-Id: <202604292308.63TN8XUD448273@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: [Normal] Alarm alarm.BackupStatusVc on Folder Datacenters
+
+Held 1 message in /var/spool/mail/admin
