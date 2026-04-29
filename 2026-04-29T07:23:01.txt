@@ -1,0 +1,23 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 13 messages 12 unread
+    1 lli-inf-vct01@llsuva  2026-04-24 12:51   27/2216  "Alarm alarm.StorageCo"
+▸U  2 lli-inf-vct01@llsuva  2026-04-24 15:10   27/2193  "Alarm alarm.HostConne"
+ U  3 lli-inf-vct01@llsuva  2026-04-24 15:10   27/2171  "[Critical] Alarm alar"
+ U  4 lli-inf-vct01@llsuva  2026-04-24 15:10   27/2027  "Alarm alarm.HostConne"
+ U  5 lli-inf-vct01@llsuva  2026-04-24 15:10   27/2027  "Alarm alarm.HostConne"
+ U  6 lladmin@llsuva.test   2026-04-27 08:30   42/2116  "Snapshot Bereinigung "
+ U  7 lladmin@llsuva.test   2026-04-27 08:30   40/2022  "Snapshot Bereinigung "
+ U  8 Mail Delivery System  2026-04-25 08:47  108/4671  "Undelivered Mail Retu"
+ U  9 Mail Delivery System  2026-04-25 08:47  102/4233  "Undelivered Mail Retu"
+ U 10 Mail Delivery System  2026-04-25 08:47  100/4139  "Undelivered Mail Retu"
+ U 11 lli-inf-vct01@llsuva  2026-04-26 22:06   27/2095  "[Warning] Alarm alarm"
+ U 12 Mail Delivery System  2026-04-26 08:07   99/4035  "Undelivered Mail Retu"
+ U 13 Mail Delivery System  2026-04-27 08:07   98/3967  "Undelivered Mail Retu"
+[-- Message  1 -- 27 lines, 2216 bytes --]:
+Date: Fri, 24 Apr 2026 12:51:26 +0200
+Message-Id: <202604241051.63OApQ8r3168555@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: Alarm alarm.StorageConnectivityAlarm on Host lli-inf-esx03.llsuva.test
+
+Held 13 messages in /var/spool/mail/admin
