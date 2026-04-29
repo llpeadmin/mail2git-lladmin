@@ -1,0 +1,71 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 1 message
+▸   1 Mail Delivery System  2026-04-25 08:07   98/3968  "Undelivered Mail Retu"
+[-- Message  1 -- 98 lines, 3968 bytes --]:
+Date: Sat, 25 Apr 2026 08:07:31 +0200 (CEST)
+From: Mail Delivery System <MAILER-DAEMON@llsuva.test>
+Subject: Undelivered Mail Returned to Sender
+To: lladmin@llsuva.test
+Message-Id: <20260425060731.E2773208B8A0@lli-inf-lin05.llsuva.test>
+
+
+[-- #1.1 19/647 text/plain, 8bit, utf-8 --]
+[-- Notification --]
+
+This is the mail system at host lli-inf-lin05.llsuva.test.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<admin@lli-inf-lin03.llsuva.test> (expanded from <lladmin@llsuva.test>):
+    connect to lli-inf-lin03.llsuva.test[10.67.105.23]:25: No route to host
+
+[-- #1.2 15/492 message/delivery-status, 7bit, us-ascii --]
+[-- Delivery report --]
+
+[-- No MIME handler installed, or not applicable --]
+
+[-- #1.3 36/1653 message/rfc822 --]
+[-- Undelivered Message --]
+
+From: lladmin@llsuva.test
+To: a1l@llsuva.test
+Cc: lladmin@llsuva.test
+Date: 20 Apr 2026 07:51:13 +0200
+Subject: Server mit Thick Disk
+
+
+[-- #1.3.1 32/1550 text/plain, base64, utf-8 --]
+
+Hallo liebe Serververantwortliche
+
+Dieses Email wird automatisch generiert, falls ein Virtueller Server existiert mit mindestens einer Thick Harddisk.
+Dies kann unter Umständen zu Kapazitätsproblemen führen.
+
+Wir bitten Dich die Disk ins Thin-Format zu konvertieren. Siehe dazu auch: https://kb.vmware.com/s/article/2014832
+
+TSO: a1l 
+           Server:                lli-a1l-win03
+           Harddisk:              Hard disk 2
+           Disk Format:           Thick
+           Filename:              [LLI-NGAD018-SNS01] lli-a1l-win03/lli-a1l-win03_1.vmdk
+
+
+Links auf vCenter: https://lli-inf-vct01.llsuva.test/ui
+
+Solltest Du nicht (mehr) der TSO dieses Systems sein, bitten wir Dich dies zu melden und korrigieren zu lassen.
+
+Besten Dank für die Zusammenarbeit
+
+Freundliche Gruesse
+LLSUVA Admin
+
+
+Held 1 message in /var/spool/mail/admin
