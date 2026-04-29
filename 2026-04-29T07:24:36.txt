@@ -1,0 +1,77 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 5 messages 4 unread
+    1 Mail Delivery System  2026-04-25 08:47  102/4234  "Undelivered Mail Retu"
+▸U  2 Mail Delivery System  2026-04-25 08:47  100/4139  "Undelivered Mail Retu"
+ U  3 lli-inf-vct01@llsuva  2026-04-26 22:06   27/2095  "[Warning] Alarm alarm"
+ U  4 Mail Delivery System  2026-04-26 08:07   99/4035  "Undelivered Mail Retu"
+ U  5 Mail Delivery System  2026-04-27 08:07   98/3967  "Undelivered Mail Retu"
+[-- Message  1 -- 102 lines, 4234 bytes --]:
+Date: Sat, 25 Apr 2026 08:47:28 +0200 (CEST)
+From: Mail Delivery System <MAILER-DAEMON@llsuva.test>
+Subject: Undelivered Mail Returned to Sender
+To: lladmin@llsuva.test
+Message-Id: <20260425064728.2E359208B8A1@lli-inf-lin05.llsuva.test>
+
+
+[-- #1.1 20/683 text/plain, 8bit, utf-8 --]
+[-- Notification --]
+
+This is the mail system at host lli-inf-lin05.llsuva.test.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<admin@lli-inf-lin03.llsuva.test> (expanded from <lladmin@llsuva.test>):
+    delivery temporarily suspended: connect to
+    lli-inf-lin03.llsuva.test[10.67.105.23]:25: No route to host
+
+[-- #1.2 15/524 message/delivery-status, 7bit, us-ascii --]
+[-- Delivery report --]
+
+[-- No MIME handler installed, or not applicable --]
+
+[-- #1.3 39/1851 message/rfc822 --]
+[-- Undelivered Message --]
+
+From: lladmin@llsuva.test
+To: brf@llsuva.test
+Cc: lladmin@llsuva.test
+Date: 20 Apr 2026 08:30:10 +0200
+Subject: Snapshot Bereinigung
+
+
+[-- #1.3.1 35/1748 text/plain, base64, utf-8 --]
+
+Hallo liebe Serververantwortliche
+
+Dieses Email wird automatisch generiert, falls ein VMware Snapshot eines virtuellen Servers exisitiert, welcher älter ist als 2 Wochen.
+Dies kann unter Umständen zu Kapazitäts- und/oder Performanceproblemen führen.
+
+Wir bitten Dich die Snapshots fortlaufend zu bereinigen.
+
+TSO: brf 
+           Server:                lli-brf-win12
+           Create Date:           03.01.2026
+           Snapshot-Name:         _cohesity_m_snapshot-5627439173923498-39303
+           Description:           :nonquiesced:Cohesity snapshot 5627439173923498-39303 for VM vm-22560
+
+
+Links auf vCenter: https://lli-inf-vct01.llsuva.test/ui
+
+Falls Du den Snapshot nicht selber generiert hast, bitten wir dich, dieses Email entsprechen weiterzuleiten. 
+Solltest Du nicht (mehr) der TSO dieses Systems sein, bitten wir Dich dies zu melden und korrigieren zu lassen.
+
+Besten Dank für die Zusammenarbeit
+
+Freundliche Gruesse
+LLSUVA Admin
+
+
+Held 5 messages in /var/spool/mail/admin
