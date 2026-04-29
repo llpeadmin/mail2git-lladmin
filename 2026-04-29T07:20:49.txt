@@ -1,0 +1,28 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 18 messages 17 unread
+    1 lli-inf-vct01@llsuva  2026-04-24 15:12   27/2216  "Alarm alarm.StorageCo"
+▸U  2 lli-inf-vct01@llsuva  2026-04-24 15:12   27/2215  "Alarm alarm.StorageCo"
+ U  3 lli-inf-vct01@llsuva  2026-04-24 15:10   27/2193  "Alarm alarm.HostConne"
+ U  4 lli-inf-vct01@llsuva  2026-04-24 15:10   27/2171  "[Critical] Alarm alar"
+ U  5 lli-inf-vct01@llsuva  2026-04-24 15:10   27/2193  "Alarm alarm.HostConne"
+ U  6 lladmin@llsuva.test   2026-04-28 07:51   39/1918  "Server mit Thick Disk"
+ U  7 lli-inf-vct01@llsuva  2026-04-24 15:10   27/2171  "[Critical] Alarm alar"
+ U  8 lladmin@llsuva.test   2026-04-27 08:30   48/2554  "Snapshot Bereinigung "
+ U  9 lli-inf-vct01@llsuva  2026-04-24 15:10   27/2027  "Alarm alarm.HostConne"
+ U 10 lli-inf-vct01@llsuva  2026-04-24 12:51   27/2215  "Alarm alarm.StorageCo"
+ U 11 lli-inf-vct01@llsuva  2026-04-24 15:12   27/2215  "Alarm alarm.StorageCo"
+ U 12 lli-inf-vct01@llsuva  2026-04-24 12:51   27/2215  "Alarm alarm.StorageCo"
+ U 13 lli-inf-vct01@llsuva  2026-04-24 15:10   27/2193  "Alarm alarm.HostConne"
+ U 14 lli-inf-vct01@llsuva  2026-04-24 15:10   27/2171  "[Critical] Alarm alar"
+ U 15 lli-inf-vct01@llsuva  2026-04-24 15:10   27/2027  "Alarm alarm.HostConne"
+ U 16 lli-inf-vct01@llsuva  2026-04-24 15:10   27/2027  "Alarm alarm.HostConne"
+ U 17 lladmin@llsuva.test   2026-04-27 08:30   42/2116  "Snapshot Bereinigung "
+ U 18 lladmin@llsuva.test   2026-04-27 08:30   40/2022  "Snapshot Bereinigung "
+[-- Message  1 -- 27 lines, 2216 bytes --]:
+Date: Fri, 24 Apr 2026 15:12:06 +0200
+Message-Id: <202604241312.63ODC66h3268398@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: Alarm alarm.StorageConnectivityAlarm on Host lli-inf-esx02.llsuva.test
+
+Held 18 messages in /var/spool/mail/admin
