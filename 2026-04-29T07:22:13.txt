@@ -1,0 +1,56 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 11 messages 10 unread
+    1 lladmin@llsuva.test   2026-04-27 08:30   48/2555  "Snapshot Bereinigung "
+▸U  2 lli-inf-vct01@llsuva  2026-04-24 15:10   27/2027  "Alarm alarm.HostConne"
+ U  3 lli-inf-vct01@llsuva  2026-04-24 12:51   27/2215  "Alarm alarm.StorageCo"
+ U  4 lli-inf-vct01@llsuva  2026-04-24 15:12   27/2215  "Alarm alarm.StorageCo"
+ U  5 lli-inf-vct01@llsuva  2026-04-24 12:51   27/2215  "Alarm alarm.StorageCo"
+ U  6 lli-inf-vct01@llsuva  2026-04-24 15:10   27/2193  "Alarm alarm.HostConne"
+ U  7 lli-inf-vct01@llsuva  2026-04-24 15:10   27/2171  "[Critical] Alarm alar"
+ U  8 lli-inf-vct01@llsuva  2026-04-24 15:10   27/2027  "Alarm alarm.HostConne"
+ U  9 lli-inf-vct01@llsuva  2026-04-24 15:10   27/2027  "Alarm alarm.HostConne"
+ U 10 lladmin@llsuva.test   2026-04-27 08:30   42/2116  "Snapshot Bereinigung "
+ U 11 lladmin@llsuva.test   2026-04-27 08:30   40/2022  "Snapshot Bereinigung "
+[-- Message  1 -- 48 lines, 2555 bytes --]:
+From: lladmin@llsuva.test
+To: lladmin@llsuva.test
+Cc: lladmin@llsuva.test
+Date: 27 Apr 2026 08:30:11 +0200
+Subject: Snapshot Bereinigung
+
+Hallo liebe Serververantwortliche
+
+Dieses Email wird automatisch generiert, falls ein VMware Snapshot eines virtuellen Servers exisitiert, welcher älter ist als 2 Wochen.
+Dies kann unter Umständen zu Kapazitäts- und/oder Performanceproblemen führen.
+
+Wir bitten Dich die Snapshots fortlaufend zu bereinigen.
+
+TSO: lladmin 
+           Server:                lli-inf-lin06
+           Create Date:           27.03.2026
+           Snapshot-Name:         VM Snapshot 3/27/2026, 10:36:16 AM
+           Description:           bevor update
+ 
+           Server:                lli-inf-vct01
+           Create Date:           11.03.2026
+           Snapshot-Name:         vor versuch reperatur updatemgr db
+           Description:           
+ 
+           Server:                lli-inf-vct01
+           Create Date:           11.03.2026
+           Snapshot-Name:         vor update
+           Description:           
+
+
+Links auf vCenter: https://lli-inf-vct01.llsuva.test/ui
+
+Falls Du den Snapshot nicht selber generiert hast, bitten wir dich, dieses Email entsprechen weiterzuleiten. 
+Solltest Du nicht (mehr) der TSO dieses Systems sein, bitten wir Dich dies zu melden und korrigieren zu lassen.
+
+Besten Dank für die Zusammenarbeit
+
+Freundliche Gruesse
+LLSUVA Admin
+
+
+Held 11 messages in /var/spool/mail/admin
