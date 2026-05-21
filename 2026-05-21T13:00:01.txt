@@ -1,0 +1,11 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 1 message
+▸   1 lli-inf-vct01@llsuva  2026-05-21 12:56   27/2140  "[Warning] Alarm alarm"
+[-- Message  1 -- 27 lines, 2140 bytes --]:
+Date: Thu, 21 May 2026 12:56:51 +0200
+Message-Id: <202605211056.64LAupop1576674@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: [Warning] Alarm alarm.DatastoreDiskUsageAlarm on Datastore LLI-NGAD017-SNS02
+
+Held 1 message in /var/spool/mail/admin
