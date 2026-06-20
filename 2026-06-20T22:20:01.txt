@@ -1,0 +1,14 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 1 message
+▸   1 admin@lli-inf-lin03.  2026-06-20 22:15   23/1075  "Mail from gitsave    "
+[-- Message  1 -- 23 lines, 1075 bytes --]:
+Date: Sat, 20 Jun 2026 22:15:01 +0200
+To: lladmin@llsuva.test
+Subject: Mail from gitsave
+Message-Id: <20260620201501.E51922093F80@lli-inf-lin03.llsuva.test>
+From: admin@lli-inf-lin03.llsuva.test
+
+*** 20260620T2215 - ERROR rm -rf /app/lib/backup/git_lli-inf/20260616T1215 ***
+
+
+Held 1 message in /var/spool/mail/admin
