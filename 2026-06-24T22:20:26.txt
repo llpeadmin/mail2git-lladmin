@@ -1,0 +1,15 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 2 messages 1 unread
+    1 admin@lli-inf-lin03.  2026-06-24 22:15   23/1075  "Mail from gitsave    "
+▸U  2 lli-inf-vct01@llsuva  2026-06-24 22:16   27/2087  "[Normal] Alarm alarm."
+[-- Message  1 -- 23 lines, 1075 bytes --]:
+Date: Wed, 24 Jun 2026 22:15:02 +0200
+To: lladmin@llsuva.test
+Subject: Mail from gitsave
+Message-Id: <20260624201502.37C9F2093F80@lli-inf-lin03.llsuva.test>
+From: admin@lli-inf-lin03.llsuva.test
+
+*** 20260624T2215 - ERROR rm -rf /app/lib/backup/git_lli-inf/20260620T2215 ***
+
+
+Held 2 messages in /var/spool/mail/admin
