@@ -1,0 +1,14 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 4 messages 3 unread
+    1 lli-inf-vct01@llsuva  2026-06-24 22:14   27/1980  "Alarm alarm.HealthSta"
+▸U  2 lli-inf-vct01@llsuva  2026-06-24 22:14   27/2075  "[Warning] Alarm alarm"
+ U  3 admin@lli-inf-lin03.  2026-06-24 22:15   23/1074  "Mail from gitsave    "
+ U  4 lli-inf-vct01@llsuva  2026-06-24 22:16   27/2087  "[Normal] Alarm alarm."
+[-- Message  1 -- 27 lines, 1980 bytes --]:
+Date: Wed, 24 Jun 2026 22:14:24 +0200
+Message-Id: <202606242014.65OKEOpw3437212@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: Alarm alarm.HealthStatusChangedAlarm on Folder Datacenters
+
+Held 4 messages in /var/spool/mail/admin
