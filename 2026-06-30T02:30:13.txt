@@ -1,0 +1,11 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 1 message
+▸   1 lli-inf-vct01@llsuva  2026-06-30 02:29   27/2097  "[Critical] Alarm alar"
+[-- Message  1 -- 27 lines, 2097 bytes --]:
+Date: Tue, 30 Jun 2026 02:29:57 +0200
+Message-Id: <202606300029.65U0TvwU406288@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: [Critical] Alarm alarm.HostCPUUsageAlarm on Host lli-inf-esx03.llsuva.test
+
+Held 1 message in /var/spool/mail/admin
