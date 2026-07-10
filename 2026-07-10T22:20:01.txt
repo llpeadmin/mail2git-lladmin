@@ -1,0 +1,12 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 2 messages 1 unread
+    1 lli-inf-vct01@llsuva  2026-07-10 22:13   27/2088  "[Normal] Alarm alarm."
+▸U  2 admin@lli-inf-lin03.  2026-07-10 22:15   23/1074  "Mail from gitsave    "
+[-- Message  1 -- 27 lines, 2088 bytes --]:
+Date: Fri, 10 Jul 2026 22:13:44 +0200
+Message-Id: <202607102013.66AKDism1437048@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: [Normal] Alarm alarm.HostCPUUsageAlarm on Host lli-inf-esx03.llsuva.test
+
+Held 2 messages in /var/spool/mail/admin
