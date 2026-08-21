@@ -1,0 +1,73 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 2 messages 1 unread
+    1 Mail Delivery System  2026-08-21 08:10   99/4014  "Undelivered Mail Retu"
+▸U  2 admin@lli-inf-lin03.  2026-08-21 08:12   23/1540  "Mail from llinfcheck "
+[-- Message  1 -- 99 lines, 4014 bytes --]:
+Date: Fri, 21 Aug 2026 08:10:52 +0200 (CEST)
+From: Mail Delivery System <MAILER-DAEMON@llsuva.test>
+Subject: Undelivered Mail Returned to Sender
+To: lladmin@llsuva.test
+Message-Id: <20260821061052.A092F207D600@lli-inf-lin05.llsuva.test>
+
+
+[-- #1.1 20/695 text/plain, 8bit, utf-8 --]
+[-- Notification --]
+
+This is the mail system at host lli-inf-lin05.llsuva.test.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<ott@lli-ott-lin01.llsuva.test> (expanded from <ott@llsuva.test>): host
+    lli-ott-lin01.llsuva.test[10.67.105.118] said: 452 4.3.1 Insufficient
+    system storage (in reply to MAIL FROM command)
+
+[-- #1.2 15/486 message/delivery-status, 7bit, us-ascii --]
+[-- Delivery report --]
+
+[-- No MIME handler installed, or not applicable --]
+
+[-- #1.3 36/1657 message/rfc822 --]
+[-- Undelivered Message --]
+
+From: lladmin@llsuva.test
+To: ott@llsuva.test
+Cc: lladmin@llsuva.test
+Date: 16 Aug 2026 07:51:15 +0200
+Subject: Server mit Thick Disk
+
+
+[-- #1.3.1 32/1554 text/plain, base64, utf-8 --]
+
+Hallo liebe Serververantwortliche
+
+Dieses Email wird automatisch generiert, falls ein Virtueller Server existiert mit mindestens einer Thick Harddisk.
+Dies kann unter Umständen zu Kapazitätsproblemen führen.
+
+Wir bitten Dich die Disk ins Thin-Format zu konvertieren. Siehe dazu auch: https://kb.vmware.com/s/article/2014832
+
+TSO: ott 
+           Server:                lli-ott-winS01
+           Harddisk:              Hard disk 1
+           Disk Format:           Thick
+           Filename:              [LLI-NGAD017-SNS01] lli-ott-windc03/lli-ott-windc03.vmdk
+
+
+Links auf vCenter: https://lli-inf-vct01.llsuva.test/ui
+
+Solltest Du nicht (mehr) der TSO dieses Systems sein, bitten wir Dich dies zu melden und korrigieren zu lassen.
+
+Besten Dank für die Zusammenarbeit
+
+Freundliche Gruesse
+LLSUVA Admin
+
+
+Held 2 messages in /var/spool/mail/admin
