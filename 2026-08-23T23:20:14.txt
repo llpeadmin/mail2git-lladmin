@@ -1,0 +1,11 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 1 message
+▸   1 lli-inf-vct01@llsuva  2026-08-23 23:17   27/2141  "[Critical] Alarm alar"
+[-- Message  1 -- 27 lines, 2141 bytes --]:
+Date: Sun, 23 Aug 2026 23:17:15 +0200
+Message-Id: <202608232117.67NLHFTA639031@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: [Critical] Alarm alarm.DatastoreDiskUsageAlarm on Datastore LLI-NGAD018-SNS01
+
+Held 1 message in /var/spool/mail/admin
