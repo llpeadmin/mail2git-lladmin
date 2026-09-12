@@ -1,0 +1,14 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 1 message
+▸   1 admin@lli-inf-lin03.  2026-09-12 16:42   23/1541  "Mail from llinfcheck "
+[-- Message  1 -- 23 lines, 1541 bytes --]:
+Date: Sat, 12 Sep 2026 16:42:08 +0200
+To: lladmin@llsuva.test
+Subject: Mail from llinfcheck - checkping Error
+Message-Id: <20260912144208.ADC6F2093F80@lli-inf-lin03.llsuva.test>
+From: admin@lli-inf-lin03.llsuva.test
+
+2026-09-12T16:42:08(CEST) - llinfcheck (PID 2243899) - checkping - Server ok (22 von 24): lli-inf-win01,lli-inf-sns01,lli-inf-sns02,lli-inf-snd10,lli-inf-snd20,lli-apollo-lin01,lli-ch6-lin01,lli-hd6-lin01,lli-nl0-lin01,lli-inf-lin01,lli-inf-lin02,lli-inf-lin03,lli-inf-lin04,lli-inf-lin05,lli-wra-lin01,lli-cn5-lin01,lli-wl4-lin01,lli-bje-lin01,lli-ott-lin01,lli-inf-esx01,lli-inf-esx02,lli-inf-esx03
+2026-09-12T16:42:08(CEST) - llinfcheck (PID 2243899) - checkping - Server mit Error (2 von 24): lli-m3j-lin01,lli-ckb-lin01
+
+Held 1 message in /var/spool/mail/admin
