@@ -1,0 +1,13 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 3 messages 2 unread
+    1 lli-inf-vct01@llsuva  2026-10-08 15:46   27/2165  "Alarm alarm.StorageCo"
+▸U  2 lli-inf-vct01@llsuva  2026-10-08 15:47   27/2164  "Alarm alarm.StorageCo"
+ U  3 lli-inf-vct01@llsuva  2026-10-08 15:47   27/2164  "Alarm alarm.StorageCo"
+[-- Message  1 -- 27 lines, 2165 bytes --]:
+Date: Thu, 8 Oct 2026 15:46:46 +0200
+Message-Id: <202610081346.698DkkBK1736177@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: Alarm alarm.StorageConnectivityAlarm on Host lli-inf-esx01.llsuva.test
+
+Held 3 messages in /var/spool/mail/admin
