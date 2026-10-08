@@ -1,0 +1,12 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 2 messages 1 unread
+    1 lli-inf-vct01@llsuva  2026-10-08 17:42   27/2209  "[Warning] Alarm alarm"
+▸U  2 lli-inf-vct01@llsuva  2026-10-08 17:42   27/2208  "[Warning] Alarm alarm"
+[-- Message  1 -- 27 lines, 2209 bytes --]:
+Date: Thu, 8 Oct 2026 17:42:28 +0200
+Message-Id: <202610081542.698FgSE51822174@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: [Warning] Alarm alarm.VmDiskConsolidationNeededAlarm on VM lli-inf-ntx05
+
+Held 2 messages in /var/spool/mail/admin
