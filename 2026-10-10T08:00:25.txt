@@ -1,0 +1,71 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 1 message
+▸   1 Mail Delivery System  2026-10-10 07:51   99/4032  "Undelivered Mail Retu"
+[-- Message  1 -- 99 lines, 4032 bytes --]:
+Date: Sat, 10 Oct 2026 07:51:15 +0200 (CEST)
+From: Mail Delivery System <MAILER-DAEMON@llsuva.test>
+Subject: Undelivered Mail Returned to Sender
+To: lladmin@llsuva.test
+Message-Id: <20261010055115.88BC620AB770@lli-inf-lin05.llsuva.test>
+
+
+[-- #1.1 19/654 text/plain, 8bit, utf-8 --]
+[-- Notification --]
+
+This is the mail system at host lli-inf-lin05.llsuva.test.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<_morpheus@llsuva.test>: Host or domain name not found. Name service error for
+    name=llsuva.test type=A: Host found but no data record of requested type
+
+[-- #1.2 16/543 message/delivery-status, 7bit, us-ascii --]
+[-- Delivery report --]
+
+[-- No MIME handler installed, or not applicable --]
+
+[-- #1.3 36/1659 message/rfc822 --]
+[-- Undelivered Message --]
+
+From: lladmin@llsuva.test
+To: _morpheus@llsuva.test
+Cc: lladmin@llsuva.test
+Date: 10 Oct 2026 07:51:15 +0200
+Subject: Server mit Thick Disk
+
+
+[-- #1.3.1 32/1556 text/plain, base64, utf-8 --]
+
+Hallo liebe Serververantwortliche
+
+Dieses Email wird automatisch generiert, falls ein Virtueller Server existiert mit mindestens einer Thick Harddisk.
+Dies kann unter Umständen zu Kapazitätsproblemen führen.
+
+Wir bitten Dich die Disk ins Thin-Format zu konvertieren. Siehe dazu auch: https://kb.vmware.com/s/article/2014832
+
+TSO: _morpheus 
+           Server:                hpe-morpheus
+           Harddisk:              Hard disk 1
+           Disk Format:           Thick
+           Filename:              [LLI-NGAD065-SNS02] hpe-morpheus/hpe-morpheus.vmdk
+
+
+Links auf vCenter: https://lli-inf-vct01.llsuva.test/ui
+
+Solltest Du nicht (mehr) der TSO dieses Systems sein, bitten wir Dich dies zu melden und korrigieren zu lassen.
+
+Besten Dank für die Zusammenarbeit
+
+Freundliche Gruesse
+LLSUVA Admin
+
+
+Held 1 message in /var/spool/mail/admin
