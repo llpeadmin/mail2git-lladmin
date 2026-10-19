@@ -1,0 +1,47 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 2 messages 1 unread
+    1 lladmin@llsuva.test   2026-10-19 08:30   48/2547  "Snapshot Bereinigung "
+▸U  2 lladmin@llsuva.test   2026-10-19 08:30   48/2558  "Snapshot Bereinigung "
+[-- Message  1 -- 48 lines, 2547 bytes --]:
+From: lladmin@llsuva.test
+To: bje@llsuva.test
+Cc: lladmin@llsuva.test
+Date: 19 Oct 2026 08:30:11 +0200
+Subject: Snapshot Bereinigung
+
+Hallo liebe Serververantwortliche
+
+Dieses Email wird automatisch generiert, falls ein VMware Snapshot eines virtuellen Servers exisitiert, welcher älter ist als 2 Wochen.
+Dies kann unter Umständen zu Kapazitäts- und/oder Performanceproblemen führen.
+
+Wir bitten Dich die Snapshots fortlaufend zu bereinigen.
+
+TSO: bje 
+           Server:                lli-bje-S630013
+           Create Date:           30.09.2026
+           Snapshot-Name:         Initial Windows Setup
+           Description:           
+ 
+           Server:                lli-bje-S631000
+           Create Date:           30.09.2026
+           Snapshot-Name:         Initial Windows Active Directory
+           Description:           
+ 
+           Server:                lli-bje-S631001
+           Create Date:           30.09.2026
+           Snapshot-Name:         Initial Windows Active Directory
+           Description:           
+
+
+Links auf vCenter: https://lli-inf-vct01.llsuva.test/ui
+
+Falls Du den Snapshot nicht selber generiert hast, bitten wir dich, dieses Email entsprechen weiterzuleiten. 
+Solltest Du nicht (mehr) der TSO dieses Systems sein, bitten wir Dich dies zu melden und korrigieren zu lassen.
+
+Besten Dank für die Zusammenarbeit
+
+Freundliche Gruesse
+LLSUVA Admin
+
+
+Held 2 messages in /var/spool/mail/admin
