@@ -1,0 +1,12 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 2 messages 1 unread
+    1 lli-inf-vct01@llsuva  2026-10-22 20:22   27/2028  "Alarm alarm.HostConne"
+▸U  2 admin@lli-inf-lin03.  2026-10-22 20:22   23/1526  "Mail from llinfcheck "
+[-- Message  1 -- 27 lines, 2028 bytes --]:
+Date: Thu, 22 Oct 2026 20:22:10 +0200
+Message-Id: <202610221822.69MIMAmK3870714@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: Alarm alarm.HostConnectivityAlarm on Host lli-inf-esx02.llsuva.test
+
+Held 2 messages in /var/spool/mail/admin
