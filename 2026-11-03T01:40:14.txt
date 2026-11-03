@@ -1,0 +1,11 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 1 message
+▸   1 lli-inf-vct01@llsuva  2026-11-03 01:36   27/1975  "Alarm alarm.HealthSta"
+[-- Message  1 -- 27 lines, 1975 bytes --]:
+Date: Tue, 3 Nov 2026 01:36:59 +0100
+Message-Id: <202611030036.6A30axOU2980079@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: Alarm alarm.HealthStatusChangedAlarm on Folder Datacenters
+
+Held 1 message in /var/spool/mail/admin
