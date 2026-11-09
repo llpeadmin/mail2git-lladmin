@@ -1,0 +1,13 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 3 messages 2 unread
+    1 lli-inf-vct01@llsuva  2026-11-09 16:03   27/1975  "Alarm alarm.HealthSta"
+▸U  2 admin@lli-inf-lin03.  2026-11-09 16:10   24/1329  "Mail from ESXCHECK   "
+ U  3 admin@lli-inf-lin03.  2026-11-09 16:10   24/1338  "Mail from ESXCHECK   "
+[-- Message  1 -- 27 lines, 1975 bytes --]:
+Date: Mon, 9 Nov 2026 16:03:34 +0100
+Message-Id: <202611091503.6A9F3YWK1469452@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: Alarm alarm.HealthStatusChangedAlarm on Folder Datacenters
+
+Held 3 messages in /var/spool/mail/admin
