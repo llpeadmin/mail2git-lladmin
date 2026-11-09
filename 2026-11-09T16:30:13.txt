@@ -1,0 +1,12 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 2 messages 1 unread
+    1 lli-inf-vct01@llsuva  2026-11-09 16:29   27/2163  "[Normal] Alarm alarm."
+▸U  2 lli-inf-vct01@llsuva  2026-11-09 16:29   27/2184  "Alarm alarm.HostConne"
+[-- Message  1 -- 27 lines, 2163 bytes --]:
+Date: Mon, 9 Nov 2026 16:29:21 +0100
+Message-Id: <202611091529.6A9FTLXs1487526@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: [Normal] Alarm alarm.HostConnectionStateAlarm on Host lli-inf-esx01.llsuva.test
+
+Held 2 messages in /var/spool/mail/admin
