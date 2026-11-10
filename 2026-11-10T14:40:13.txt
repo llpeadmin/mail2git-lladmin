@@ -1,0 +1,19 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 5 messages 4 unread
+    1 admin@lli-inf-lin03.  2026-11-10 14:30   24/1339  "Mail from ESXCHECK   "
+▸U  2 lli-inf-vct01@llsuva  2026-11-10 14:30   27/2191  "Alarm alarm.HostConne"
+ U  3 lli-inf-vct01@llsuva  2026-11-10 14:30   27/2169  "[Critical] Alarm alar"
+ U  4 lli-inf-vct01@llsuva  2026-11-10 14:30   27/2025  "Alarm alarm.HostConne"
+ U  5 admin@lli-inf-lin03.  2026-11-10 14:32   23/1521  "Mail from llinfcheck "
+[-- Message  1 -- 24 lines, 1339 bytes --]:
+Date: Tue, 10 Nov 2026 14:30:12 +0100
+To: lladmin@llsuva.test
+Subject: Mail from ESXCHECK
+Message-Id: <20261110133012.82EBC2093F86@lli-inf-lin03.llsuva.test>
+From: admin@lli-inf-lin03.llsuva.test
+
+2026-11-10T14:30:12(CET) - llesxcheck (PID 2970078) - checkuplinkstatus - Server ok (2 von 3): lli-inf-esx02,lli-inf-esx03
+2026-11-10T14:30:12(CET) - llesxcheck (PID 2970078) - checkuplinkstatus - Server mit Warnungen (0 von 3): 
+2026-11-10T14:30:12(CET) - llesxcheck (PID 2970078) - checkuplinkstatus - Server mit Error (1 von 3): lli-inf-esx01
+
+Held 5 messages in /var/spool/mail/admin
