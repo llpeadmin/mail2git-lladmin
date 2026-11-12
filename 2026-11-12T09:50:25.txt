@@ -1,0 +1,13 @@
+s-nail version v14.9.24.  Type `?' for help
+/var/spool/mail/admin: 3 messages 2 unread
+    1 lli-inf-vct01@llsuva  2026-11-12 09:47   27/2023  "Alarm alarm.HostConne"
+▸U  2 admin@lli-inf-lin03.  2026-11-12 09:50   24/1329  "Mail from ESXCHECK   "
+ U  3 admin@lli-inf-lin03.  2026-11-12 09:50   24/1338  "Mail from ESXCHECK   "
+[-- Message  1 -- 27 lines, 2023 bytes --]:
+Date: Thu, 12 Nov 2026 09:47:50 +0100
+Message-Id: <202611120847.6AC8loZ6157433@lli-inf-vct01.llsuva.test>
+To: lladmin@llsuva.test
+From: lli-inf-vct01@llsuva.test
+Subject: Alarm alarm.HostConnectivityAlarm on Host lli-inf-esx03.llsuva.test
+
+Held 3 messages in /var/spool/mail/admin
